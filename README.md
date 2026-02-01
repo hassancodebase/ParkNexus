@@ -61,6 +61,6 @@ Note: On Windows, you may need to use a MinGW or similar environment for g++, an
 
 ## Author
 
-Muhammad Hassan - F24608010
-Muhammad Rehan Muddassir Ranjha - F24608041
-Muhammad Hassan Khawaja - F24608030
+- Muhammad Hassan - F24608010
+- Muhammad Rehan Muddassir Ranjha - F24608041
+- Muhammad Hassan Khawaja - F24608030
