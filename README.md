@@ -1,5 +1,4 @@
 # Multi-Level Parking Lot Management System
----
 
 ## Description
 
