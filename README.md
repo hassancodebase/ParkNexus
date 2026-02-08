@@ -30,7 +30,7 @@ This is a Multi-Level Parking Lot Management System implemented in C++ using var
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/Muhammad-Hassan-10/Multi-Level-Parking-Lot-Management
+   git clone https://github.com/hassancodebase/Multi-Level-Parking-Lot-Management
    cd Multi-Level-Parking-Lot-Management
    ```
 
