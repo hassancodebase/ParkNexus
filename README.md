@@ -27,20 +27,13 @@
 
 ## Compilation and Execution
 
-1. Clone repository:
-
-   ```bash
-   git clone https://github.com/hassancodebase/Multi-Level-Parking-Lot-Management
-   cd Multi-Level-Parking-Lot-Management
-   ```
-
-2. Compile the program using the following command:
+1. Compile the program using the following command:
    
    ```bash
    g++ -o parking main.cpp parking.cpp
    ```
 
-3. Run the executable:
+2. Run the executable:
    
    ```bash
    ./parking
