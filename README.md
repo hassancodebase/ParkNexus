@@ -1,8 +1,8 @@
-# Multi-Level Parking Lot Management System
+# ParkNexus - A Parking Management System
 
 ## Description
 
-This is a Multi-Level Parking Lot Management System implemented in C++ using various data structures such as Linked Lists, Queues, Stacks, and Hash Tables. The system allows users to manage parking slots, check vehicles in and out, search for vehicles, view parking history, and save/load data from files.
+*ParkNexus* is a multi level parking lot management system implemented in C++ using various data structures such as Linked Lists, Queues, Stacks, and Hash Tables. The system allows users to manage parking slots, check vehicles in and out, search for vehicles, view parking history, and save/load data from files.
 
 ## Features
 
